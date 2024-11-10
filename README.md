@@ -33,11 +33,11 @@ Esta página contém quatro gráficos interativos:
 
 1. **Requisitos**
    - Power BI Desktop instalado.
-   - O arquivo `relatorio.pbix` presente neste repositório.
+   - O arquivo `relatorio1.pbix` presente neste repositório.
 
 2. **Passos para Visualizar o Dashboard**
    1. Abra o Power BI Desktop.
-   2. Carregue o arquivo `relatorio.pbix`.
+   2. Carregue o arquivo `relatorio1.pbix`.
    3. Explore as páginas do dashboard e interaja com os gráficos para visualizar os dados.
 
 ## Contribuição
